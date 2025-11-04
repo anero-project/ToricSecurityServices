@@ -52,15 +52,15 @@ Hash: SHA512
 
 © Copyright 2025 Toric Security Services - Privacy Based Corporation License Issuing Authority (LhCorp - Licensed Hidden Corporation)
 
-- -------------------------------------------------------
-- ---  TTTTTTTTT   OOOOOOO   RRRRRRR   IIIIIII   CCCCCCC  ---
-- ---      T       O     O   R     R      I      C        ---
-- ---      T       O     O   R     R      I      C        ---
-- ---      T       O     O   RRRRRR       I      C        ---
-- ---      T       O     O   R   R        I      C        ---
-- ---      T       O     O   R    R       I      C        ---
-- ---      T       OOOOOOO   R     R   IIIIIII   CCCCCCC  ---
-- -------------------------------------------------------
+--------------------------------------------------------
+---  TTTTTTTTT   OOOOOOO   RRRRRRR   IIIIIII   CCCCCCC  ---
+---      T       O     O   R     R      I      C        ---
+---      T       O     O   R     R      I      C        ---
+---      T       O     O   RRRRRR       I      C        ---
+---      T       O     O   R   R        I      C        ---
+---      T       O     O   R    R       I      C        ---
+---      T       OOOOOOO   R     R   IIIIIII   CCCCCCC  ---
+--------------------------------------------------------
 This is the Official License of The Toric Security Services Privacy - Based Corporation License Issuing Authority. The string below represents the certificate of Toric Security Services and if decoded will read "OfficialHiddenLicenseAuthority-Issued:11.03.2025-Expires:Never". This certificate string can only be found at https://github.com/anero-project/anero/LICENSE, if you see this certificate anywhere else it is not a valid certificate
 
 LhAuthorityCert=base64:T2ZmaWNpYWxIaWRkZW5MaWNlbnNlQXV0aG9yaXR5LUlzc3VlZDoxMS4wMy4yMDI1LUV4cGlyZXM6TmV2ZXI=
